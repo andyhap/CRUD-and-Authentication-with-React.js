@@ -7,6 +7,54 @@ This project represents the **Frontend** part of a simple CRUD and authenticatio
 🔗 **Backend Repository:** [Click here to view the Backend](https://github.com/andyhap/Backend-for-CRUD-and-Authentication-with-React.js.git)
 
 
+## Features
+- User Registration & Login (JWT Authentication)
+- Protected Routes using React Router
+- CRUD (Create, Read, Update, Delete) operations with modal
+- Integration with REST API (Backend)
+- Clean UI using React-Bootstrap
+- Notification feedback (success/failure)
+
+
+## Project Structure
+```text
+src/
+├── api/
+│   └── api.js 
+├── components/
+│   ├── Navbar.js
+│   ├── PrivateRoute.js
+│   ├── FormModal.js
+│   └── Message.js
+├── pages/
+│   ├── Login.js
+│   ├── Register.js
+│   ├── Dashboard.js
+│   └── NotFound.js
+├── App.js
+└── index.js
+```
+
+
+## Installation
+
+1. Clone this repository
+   ```bash
+   git clone https://github.com/andyhap/CRUD-and-Authentication-with-React.js.git
+   ```
+
+2. Install dependencies
+   ```bash
+   npm install
+   ```
+
+3. Start the application
+   ```bash
+   npm start
+   ```
+
+Make sure the backend server is running at http://localhost:5000
+
 ## Available Scripts
 In the project directory, you can run:
 
@@ -34,8 +82,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so 
