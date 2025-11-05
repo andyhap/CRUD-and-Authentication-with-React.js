@@ -12,9 +12,6 @@ This project represents the **Frontend** part of a simple CRUD and authenticatio
 - Protected Routes using React Router
 - CRUD (Create, Read, Update, Delete) operations with modal
 - Integration with REST API (Backend)
-- Clean UI using React-Bootstrap
-- Notification feedback (success/failure)
-
 
 ## Project Structure
 ```text
