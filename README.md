@@ -1,5 +1,10 @@
-# Getting Started with Create React App
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Frontend - CRUD & Authentication Project
+
+[![View Backend](https://img.shields.io/badge/Open-Backend-green?logo=node.js)](https://github.com/andyhap/Backend-for-CRUD-and-Authentication-with-React.js.git)
+
+This project represents the **Frontend** part of a simple CRUD and authentication application built with **React.js**, **Bootstrap**, and **Axios**.
+
+🔗 **Backend Repository:** [Click here to view the Backend](https://github.com/andyhap/Backend-for-CRUD-and-Authentication-with-React.js.git)
 
 
 ## Available Scripts
@@ -33,12 +38,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-
-## 💻 Frontend - CRUD & Authentication Project
-
-[![View Backend](https://img.shields.io/badge/Open-Backend-green?logo=node.js)](https://github.com/andyhap/Backend-for-CRUD-and-Authentication-with-React.js.git)
-
-This project represents the **Frontend** part of a simple CRUD and authentication application built with **React.js**, **Bootstrap**, and **Axios**.
-
-🔗 **Backend Repository:** [Click here to view the Backend](https://github.com/andyhap/Backend-for-CRUD-and-Authentication-with-React.js.git)
 
